@@ -18,10 +18,7 @@ organizations:
   url: "http://ceaul.org/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a medical doctor currently integrated in the Centre of Statistics and its Applications at the University of Lisbon. During my time in medical school,
-I received training in Statistics and Epidemiology having participated in several research projects. I have also invested in self-learning using various internet resources and books in order
-to gain skills that are not typical in medical school. I was also a fellow in Clinical Research at the Netherlands Institute for Health Sciences ESP. Currently, I am also undertaking the MIT micromasters in Statistics and Data Science.
-I have 4 years of experience in both R and Python and enjoy having chances to use programming to solve problems in healthcare and associated fields.
+bio: I am a medical doctor currently integrated in the Centre of Statistics and its Applications at the University of Lisbon. During my time in medical school, I received training in Statistics and Epidemiology having participated in several research projects. I have also invested in self-learning using various internet resources and books in orderto gain skills that are not typical in medical school. I was also a fellow in Clinical Research at the Netherlands Institute for Health Sciences ESP. Currently, I am also undertaking the MIT micromasters in Statistics and Data Science. I have 4 years of experience in both R and Python and enjoy having chances to use programming to solve problems in healthcare and associated fields.
 
 interests:
 - Biostatistics
