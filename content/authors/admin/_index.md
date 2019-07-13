@@ -28,13 +28,10 @@ interests:
 - Statistical Software
 
 education:
-  courses:
-  - course: MS in Medicine
-    institution: Faculty of Medicine - University of Lisbon
-	year: 2019
-  - course: BS in Health Sciences
-    institution: Faculty of Medicine - University of Coimbra
-	year: 2016
+	courses:
+		- course: MS in Medicine
+		institution: Faculty of Medicine - University of Lisbon
+		year: 2019
 
 
 # Social/Academic Networking
